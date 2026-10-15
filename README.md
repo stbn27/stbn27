@@ -28,6 +28,24 @@ Si te interesa contactarme, puedes hacerlo a través de mis redes sociales:
 
 - **Correo electrónico:** estebanjosejulian@gmail.com
 
+## 🚀 Proyectos destacados:
+
+### [Sistema de recomendación de especialistas](https://github.com/stbn27/scraper_doctoralia-v2)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Proyecto terminal: aplicación que extrae información pública mediante **web scraping**, la persiste y procesa con **modelos de lenguaje**, y presenta los resultados al usuario a través de un **chatbot** con recomendaciones personalizadas.
+
+### [Sistema distribuido cliente-servidor (Java)](https://github.com/stbn27/cliente-servidor-sockets_java)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Sockets](https://img.shields.io/badge/Sockets-000000?style=flat-square&logoColor=white) ![RMI](https://img.shields.io/badge/RMI-CA9100?style=flat-square&logoColor=white)
+
+Prácticas de sistemas distribuidos: arquitectura **cliente-servidor** con sockets y multihilo para la comunicación entre nodos, más invocación remota de métodos (**RMI**).
+
+### 💍 Invitación digital de boda — Freelance (2026)
+![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+Proyecto freelance remoto: invitación responsiva con animaciones y confirmación de asistencia (RSVP) persistida en la nube vía **Google Sheets API**, con panel para los anfitriones.
+
+
 ## 💻 Stack tecnológico:
 
 ### Backend
@@ -53,23 +71,6 @@ Si te interesa contactarme, puedes hacerlo a través de mis redes sociales:
 - 🔵 **Excel intermedio — UAM** (2022): tablas dinámicas y dashboards.
 - 🌐 **Inglés B1** certificado por la UAM — comprensión de documentación técnica.
 
-## 🚀 Proyectos destacados:
-
-### [Sistema de recomendación de especialistas](https://github.com/stbn27/scraper_doctoralia-v2)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-Proyecto terminal: aplicación que extrae información pública mediante **web scraping**, la persiste y procesa con **modelos de lenguaje**, y presenta los resultados al usuario a través de un **chatbot** con recomendaciones personalizadas.
-
-### [Sistema distribuido cliente-servidor (Java)](https://github.com/stbn27/cliente-servidor-sockets_java)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Sockets](https://img.shields.io/badge/Sockets-000000?style=flat-square&logoColor=white) ![RMI](https://img.shields.io/badge/RMI-CA9100?style=flat-square&logoColor=white)
-
-Prácticas de sistemas distribuidos: arquitectura **cliente-servidor** con sockets y multihilo para la comunicación entre nodos, más invocación remota de métodos (**RMI**).
-
-### 💍 Invitación digital de boda — Freelance (2026)
-![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-
-Proyecto freelance remoto: invitación responsiva con animaciones y confirmación de asistencia (RSVP) persistida en la nube vía **Google Sheets API**, con panel para los anfitriones.
-
 ---
 
 ### 📊 Estadísticas de GitHub:
@@ -80,7 +81,41 @@ Proyecto freelance remoto: invitación responsiva con animaciones y confirmació
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stbn27&theme=tokyonight&hide_border=false)<br/>
 
+## Proyectos realizados
+
+> Considera que muchos de los proyectos mencionados a continuación fueron desarrollados en mis inicios de la programación.
+
+### Java ☕
+
+|Proyecto|Tipo|Repositorio|Descripción|Previsualización/Notas|
+|-|-|-|-|-|
+|Convertidor de divisas|Escritorio/Swing|[Ver](https://github.com/stbn27/ConvertidorDeDivisas)|Convertidor de monedas a otro tipo de moneda|-|
+|Hotel Alura|Escritorio/swing|[Ver](https://github.com/stbn27/HotelAlura)|Este programa se encargue de gestionar las habitaciones de un hotel 🏨. Los empleados podrán hacer el registro de los huespedes. Para el desarrollo de este proyecto se siguio la metodología MVC.| [Ver en youtube](https://youtu.be/TPgWtLo7C7U)| 
+|Punto de venta| Escritorio/Swing|[Ver](http://github.com/stbn27/SistemaVentas1)|Proyecto que se realizo al finalizar un curso de Java-Swing de [youtube del canal de Vida informatico](https://www.youtube.com/@vidainformatico-as/featured). | - |
+|Validador de correo|Consola/Ant|[ver](https://github.com/stbn27/ValidarCorreo)|Ejercico que muestra como resolver un problema muy común cuando se adentra en el **mundo de la programación**. Este ejercicio tiene una explicación en mi [canal de youtube](https://youtu.be/c2IVZtjOWFk) sobre la solución aplicada.| [Ver en youtube](https://youtu.be/c2IVZtjOWFk)|
+|Formulario con JavaFX|Java Fx/Escritorio|[ver](https://github.com/stbn27/Fomulario-con-JavaFX.)|Formulario básico para la captura de datos usando Java Fx en conjunto **scene builder** para el desarrollo y personalización de la IU.|[Ver en youtube](https://youtu.be/hmHIaHFl3OA)|
+
+### Python 🐍
+
+|Proyecto|Tipo|Repositorio|Descripción|Previsualización/Notas|
+|-|-|-|-|-|
+|Enumerador de boletos|Consola|[Ver](https://github.com/stbn27/Enumerado-de-boletos)|Enumerador automatico de boletos de rifa, mediante las coordenadas.|-|
+|Convertidor de AFN a AFD|Consola|[Ver](https://github.com/stbn27/conversor-de-AFN-AFD)|Convertidor de un automata finito no determinista a aún automata determinista.|-|
+|Analizador de reseñas de Doctorolia|Python/react/web/mongo|[Ver](https://github.com/stbn27/scraper_doctoralia-v2)|Recopila perfiles de doctores de la web de **Doctorolia** y los persiste en una base de datos _mongo_, despues utilizando un LLM procesa las opiniones del especialista y genera una resumen asi como una ponderación de la recomendación.|-|
+|Descargar imágenes de Instagram|Consola|[ver](https://github.com/stbn27/scraping-descarga-imagenes-instagram)|Descarga multiples imagenes de una etiqueta se coloco en el buscador|-|
+
+### Web ⛓️‍💥
+
+|Proyecto|Tipo|Repositorio|Descripción|Previsualización/Notas|
+|-|-|-|-|-|
+|Analizador de reseñas de Doctorolia|web/react/python/mongo|[Ver](https://github.com/stbn27/scraper_doctoralia-v2)|Recopila perfiles de doctores de la web de **Doctorolia** y los persiste en una base de datos _mongo_, despues utilizando un LLM procesa las opiniones del especialista y genera una resumen asi como una ponderación de la recomendación.|-|
+|Gestor de tareas|web / Vanilla|[Ver](https://github.com/stbn27/Gestor-de-tareas)|Gestor y organizador de actividades similar a _trello_|_El proyecto quedo incompleto en cuanto a la logica de persitencia(backend)_|
+|Generador de portadas|Web / Vanilla| [Ver](https://github.com/stbn27/Generador-de-portadas)|Genera caratulas de portadas para cuadernos o libros, util para cuando comienza el ciclo escolar en las escuelas y se solicita forrar los cuadernos.|[Utilizar](https://github.com/stbn27/Generador-de-portadas)|
+|Diapositivas para exposición|Web/Vanilla|[Ver](https://github.com/stbn27/Red-impresion-universitaria)| Diapositivas estilo powerpoint para exponer. El proyecto en su mayoria fue desarrollo con _IA_ pero orquestado por el autor|[Visualizar](https://diapositivas-impresion-uam-expo.netlify.app/)|
+
+
 ---
 
-Gracias por llegar hasta aquí 👋. Si te interesa colaborar o tienes una oportunidad, escríbeme:
+Gracias por llegar hasta aquí 👋. Si te interesa colaborar o tienes una oportunidad, escríbeme: 
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanjosejulian@gmail.com)
