@@ -110,7 +110,7 @@ Proyecto freelance remoto: invitación responsiva con animaciones y confirmació
 |-|-|-|-|-|
 |Analizador de reseñas de Doctorolia|web/react/python/mongo|[Ver](https://github.com/stbn27/scraper_doctoralia-v2)|Recopila perfiles de doctores de la web de **Doctorolia** y los persiste en una base de datos _mongo_, despues utilizando un LLM procesa las opiniones del especialista y genera una resumen asi como una ponderación de la recomendación.|-|
 |Gestor de tareas|web / Vanilla|[Ver](https://github.com/stbn27/Gestor-de-tareas)|Gestor y organizador de actividades similar a _trello_|_El proyecto quedo incompleto en cuanto a la logica de persitencia(backend)_|
-|Generador de portadas|Web / Vanilla| [Ver](https://github.com/stbn27/Generador-de-portadas)|Genera caratulas de portadas para cuadernos o libros, util para cuando comienza el ciclo escolar en las escuelas y se solicita forrar los cuadernos.|[Utilizar](https://github.com/stbn27/Generador-de-portadas)|
+|Generador de portadas|Web / Vanilla| [Ver](https://github.com/stbn27/Generador-de-portadas)|Genera caratulas de portadas para cuadernos o libros, util para cuando comienza el ciclo escolar en las escuelas y se solicita forrar los cuadernos.|[Utilizar](https://generadorportadas.netlify.app/)|
 |Diapositivas para exposición|Web/Vanilla|[Ver](https://github.com/stbn27/Red-impresion-universitaria)| Diapositivas estilo powerpoint para exponer. El proyecto en su mayoria fue desarrollo con _IA_ pero orquestado por el autor|[Visualizar](https://diapositivas-impresion-uam-expo.netlify.app/)|
 
 
